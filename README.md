@@ -1,5 +1,6 @@
 # madLibsGame
 A game of playing around with words (nouns and colors).
+
 color = input ("Enter a color: ")
 plural_Noun = input ("Enter a plural Noun: ")
 celebrity = input ("Enter a celebrity's name: ")
